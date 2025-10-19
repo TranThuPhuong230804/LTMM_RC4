@@ -3,7 +3,7 @@
 - RC4 tách thành thư viện: `include/rc4.h`, `src/rc4.c`.
 - Hai project độc lập: `RC4_Encrypt/` và `RC4_Decrypt/`.
 - `main.c` chỉ gọi hàm từ header (không chứa thuật toán).
-- Có hướng dẫn chạy và test vector.
+
 
 **Test vector**
 - Key: `HUST2025`
