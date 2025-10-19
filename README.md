@@ -1,3 +1,4 @@
+# Mã RC4
 RC4 – Stream Cipher (Two Independent Projects)
 RC4 tách thành thư viện: include/rc4.h, src/rc4.c.
 Hai project độc lập: RC4_Encrypt/ và RC4_Decrypt/.
